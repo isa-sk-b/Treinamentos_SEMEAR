@@ -1,6 +1,6 @@
 #include<stdlib.h>
 #include<stdio.h>
-#define DEBUG 0 // opção do programador
+#define DEBUG 1 // opção do programador
 
 int main () {
     float nota1, nota2, nota3,media;
